@@ -64,15 +64,14 @@ python FlyBookAutoAsync.py
 
 
 ## 📈 Star 趋势
-## Star History
-<a href="https://www.star-history.com/#cv-cat/OpenFeiShuApi&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cv-cat/OpenFeiShuApi&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cv-cat/OpenFeiShuApi&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cv-cat/OpenFeiShuApi&type=Date" />
- </picture>
-</a>
 
+<a href="https://cvcat.site/star-history/svg?repos=cv-cat/OpenFeiShuApi&type=Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cvcat.site/star-history/svg?repos=cv-cat/OpenFeiShuApi&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cvcat.site/star-history/svg?repos=cv-cat/OpenFeiShuApi&type=Date" />
+    <img alt="Star History Chart" src="https://cvcat.site/star-history/svg?repos=cv-cat/OpenFeiShuApi&type=Date" />
+  </picture>
+</a>
 
 ## 🍔 交流群
 
